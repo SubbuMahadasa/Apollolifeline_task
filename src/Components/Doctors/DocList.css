@@ -1,0 +1,46 @@
+#box-title{
+    font-weight: 700;
+}
+.redbtn{
+    
+   color: white;
+   text-decoration: none !important;
+    padding: 10px 15px;
+    border-radius: 15px;
+}
+.inputlabel{
+    font-size: 15px;
+}
+#dropdown1{
+    width: 25%;
+    margin: 0px auto;
+}
+#custom-btn{
+    margin-top: 10px;
+    padding: 10px;
+    background-color: #7c3a85 !important;
+    border: none;
+    border-radius: 15px;
+}
+.notify-badge{
+    position: absolute;
+    right:-20px;
+    top:10px;
+    background-color: #c54747 !important;
+    text-align: center;
+    border-radius: 30px 30px 30px 30px;
+    color:white;
+    padding:5px 10px;
+    font-size:20px;
+}
+.clinic-name{
+    font-size: 16px !important;
+    font-weight: 600 !important;
+}
+#card-ui{
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+.patientsdata{
+    border: 1px solid gray;
+}

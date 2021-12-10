@@ -1,0 +1,93 @@
+[
+  {
+    "id": "1",
+    "doc_name": "Dr.Ramaraju",
+    "speciality": "Urology",
+    "Availabilty": "09.00 AM  -  06.00 PM",
+    "cost": "200/-",
+    "image_url": "https://www.manipalhospitals.com/uploads/doctors_photo/dr-aditya-g-hegde-consultant-diabetes-and-endocrinology.png",
+    "clinic": "Apollo Spectra" , 
+    "appointment_count" : "6"
+  },
+  {
+    "id": "2",
+    "doc_name": "Dr.Dheeraj",
+    "speciality": "Neurology",
+    "Availabilty": "09.00 AM  -  06.00 PM",
+    "cost": "200/-",
+    "image_url": "https://www.manipalhospitals.com/uploads/doctors_photo/dr-ajith-kumar-a-k-hod-and-consultant-critical-care-medicine.png",
+    "clinic": "Apollo Spectra",
+    "appointment_count": "3"
+  },
+
+  {
+    "id": "3",
+    "doc_name": "Dr.Satya",
+    "speciality": "Radiology",
+    "Availabilty": "09.00 AM  -  06.00 PM",
+    "cost": "300/-",
+    "image_url": "https://www.manipalhospitals.com/uploads/doctors_photo/dr-abhijit-chougule-associate-consultant-pathologist-histopathology.png",
+    "clinic": "Apollo Spectra",
+    "appointment_count": "8"
+  },
+  {
+    "id": "4",
+    "doc_name": "Dr.Hemanth",
+    "speciality": "Radiology",
+    "Availabilty": "09.00 AM  -  06.00 PM",
+    "cost": "300/-",
+    "image_url": "https://www.manipalhospitals.com/uploads/doctors_photo/dr-col-r-d-holla-senior-consultant-internal-medicine.png",
+    "clinic": "Apollo Spectra",
+    "appointment_count": "5"
+  },
+  {
+    "id": "5",
+    "doc_name": "Dr.Rajesh",
+    "speciality": "Pulmonology",
+    "Availabilty": "09.00 AM  -  06.00 PM",
+    "cost": "250/-",
+    "image_url": "https://www.manipalhospitals.com/uploads/doctors_photo/dr-abhishek-patil-consultant-rheumatology.png",
+    "clinic": "Apollo Cradle",
+    "appointment_count": "5"
+  },
+  {
+    "id": "6",
+    "doc_name": "Dr.Satish",
+    "speciality": "Urology",
+    "Availabilty": "09.00 AM  -  06.00 PM",
+    "cost": "200/-",
+    "image_url": "https://www.manipalhospitals.com/uploads/doctors_photo/dr-achuth-m-baliga-consultant-dental-medicine.png",
+    "clinic": "Apollo Cradle",
+    "appointment_count": "6"
+  },
+  {
+    "id": "7",
+    "doc_name": "Dr.Somu",
+    "speciality": "Neurology",
+    "Availabilty": "09.00 AM  -  06.00 PM",
+    "cost": "200/-",
+    "image_url": "https://www.manipalhospitals.com/uploads/doctors_photo/dr-anand-p-rao-consultant-paediaric-rheumatology.jpg",
+    "clinic": "Apollo Cradle",
+    "appointment_count": "5"
+  } , 
+  {
+    "id": "8",
+    "doc_name": "Dr.Karthik",
+    "speciality": "Radiology",
+    "Availabilty": "09.00 AM  -  06.00 PM",
+    "cost": "200/-",
+    "image_url": "https://www.manipalhospitals.com/uploads/doctors_photo/dr-anand-m-s-consultant-pathologist-laboratory-medicine.png",
+    "clinic": "Apollo Cradle",
+    "appointment_count": "6"
+  },
+  {
+    "id": "9",
+    "doc_name": "Dr.Ramana",
+    "speciality": "Gastrology",
+    "Availabilty": "09.00 AM  -  06.00 PM",
+    "cost": "200/-",
+    "image_url": "https://www.manipalhospitals.com/uploads/doctors_photo/dr-anantheswar-y-n-consultant-plastic-and-cosmetic-surgery.png",
+    "clinic": "Apollo Cradle",
+    "appointment_count": "4"
+  }
+]
